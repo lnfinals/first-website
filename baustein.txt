@@ -1,0 +1,20 @@
+<div style="width: 49%; display: inline-block">
+        <iframe  src="https://www.youtube.com/watch?v=MZ3ldOYGzOI"
+alt="Aufnahme von 13Mrd alten Galaxien"
+          width="100%"
+
+        frameborder="0">
+          
+          
+        </iframe>
+        <div style="text-align: center">13Mrd alte Galaxien</div>
+      </div>
+
+      div style="width: 49%; display: inline-block">
+        <img
+          src="https://images.t3n.de/news/wp-content/uploads/2022/04/James-Webb-Teleskop.jpg?class=hero-small"
+          alt="Aufnahme von 13Mrd alten Galaxien"
+          width="100%"
+        />
+        <div style="text-align: center">13Mrd alte Galaxien</div>
+      </div>
